@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "cspm-executive-dashboard",
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": "cloud-accounts",
+          "name": "Cloud Accounts",
+          "type": "chart",
+          "data": "Sample data for Cloud Accounts"
+        },
+        {
+          "id": "cloud-risk-assessment",
+          "name": "Cloud Account Risk Assessment",
+          "type": "chart",
+          "data": "Sample data for Risk Assessment"
+        },
+        {
+          "id": "widget-1",
+          "name": "Widget Name",
+          "type": "text",
+          "content": "Random widget content"
+        },
+        {
+          "id": "widget-2",
+          "name": "Widget Name",
+          "type": "text",
+          "content": "Random widget content"
+        }
+      ]
+    }
+  ]
+}
